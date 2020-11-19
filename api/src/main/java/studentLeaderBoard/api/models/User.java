@@ -1,6 +1,6 @@
 package studentLeaderBoard.api.models;
 
-public class Users {
+public class User {
 	
 	private int id;
 	private String email;

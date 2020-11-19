@@ -1,6 +1,6 @@
 package studentLeaderBoard.api.models;
 
-public class Tasks {
+public class Task {
 	
 	private int id;
 	private String task;

@@ -2,7 +2,7 @@ package studentLeaderBoard.api.models;
 
 import java.sql.Date;
 
-public class StudentTasks {
+public class StudentTask {
 	
 	private int id;
 	private int userId;

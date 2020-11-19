@@ -1,6 +1,6 @@
 package studentLeaderBoard.api.models;
 
-public class Rewards {
+public class Reward {
 	
 	private int id;
 	private String reward;
